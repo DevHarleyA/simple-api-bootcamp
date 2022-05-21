@@ -1,9 +1,17 @@
-# 📊 Project: Simple API 1
+# Simple API 1 - PokeDex
 
+This is a Pokedex. The User can enter any number between 1 and 898 in order to see the pokemon with that ID. The user also has the option to generate a random pokemon and see their results.
+
+[Live Application](https://pokelexx.netlify.app/)
+
+## How It's Made:
+**Tech Used:** HTML5, CSS3, JavaScript, & Pokemon API.
+
+## Project Prompt
+
+### 📊 Project: Simple API 1
 ### Goal: Display data returned from an api
-
 ### How to submit your code for review:
-
 - Fork and clone this repo
 - Create a new branch called answer
 - Checkout answer branch
